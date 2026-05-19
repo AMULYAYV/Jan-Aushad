@@ -53,7 +53,7 @@ Jan-Aushadhi-Finder/
 ├── app/                     # Main Android application
 ├── assets/                  # App assets and resources
 ├── res/                     # Layouts, drawables, strings
-├── java/                    # Application source code
+├── kotlin/                    # Application source code
 ├── api/                     # API integration files
 ├── database/                # Database/helper classes
 └── README.md
@@ -77,16 +77,7 @@ git clone https://github.com/AMULYAYV/Jan-Aushad.git
    - Android Emulator
    - Physical Android Device
 
----
-
-## 📸 Screenshots
-
-_Add your application screenshots here_
-
-| Home Screen | Medicine Search | Nearby Stores |
-|-------------|----------------|----------------|
-| Screenshot | Screenshot | Screenshot |
-
+--
 ---
 
 ## 🎯 Objectives
